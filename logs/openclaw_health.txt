@@ -1,0 +1,6 @@
+Discord: ok (@openbot) (681ms)
+Agents: main (default)
+Heartbeat interval: 30m (main)
+Session store (main): /home/codespace/.openclaw/agents/main/sessions/sessions.json (2 entries)
+- agent:main:discord:direct:906112577413718028 (3m ago)
+- agent:main:main (1317m ago)
