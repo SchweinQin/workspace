@@ -53,6 +53,7 @@ CODE_KEYWORDS = {
     "debug",
     "测试",
     "fix",
+    "优化到kimi",
 }
 
 FILE_PATTERN = re.compile(r"\b[\w\-./]+(\.[A-Za-z0-9]+)\b")

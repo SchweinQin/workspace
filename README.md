@@ -5,6 +5,8 @@ OpenClaw workspace focused on **Discord multi-model routing** that can run in Gi
 ## What's included
 - A practical routing strategy doc for Codex + Kimi + MiniMax in one Discord group.
 - A minimal Python router implementation you can run locally/Codespaces.
+- Messages containing `优化到kimi` are treated as code-related and routed by the router keyword rules.
+- 测试关键词：`codespaces-sync-test`（用于验证 Codespaces 是否同步到最新修改）。
 - A Codespaces readiness check script.
 
 ## Quick start
